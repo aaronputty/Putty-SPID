@@ -1,0 +1,38 @@
+{
+    "raceFemale": {},
+    "raceMale": {
+	"ArgonianRace":["Argonian Male", "HIMBO Pau Weak", "HIMBO Hideo", "SigmaMale"],
+	"NordRace":["EdgarPreset", "Fairly Simple", "HIMBO Normal Guy Preset", "HIMBO Pau Strong", "HIMBO Hassan", "HIMBO Hugh", "HIMBO Jack", "HIMBO Sultry", "HimboRegularGuyAlt", "Norse God --M4ruko", "Nord Male", "Himbo Snips1366", "Himbo Warbringer"],
+	"HighElfRace":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "High Elf Male", "SigmaMale"],
+	"WoodElfRace":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "Wood Elf", "SigmaMale"],
+	"DarkElfRace":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "Dark Elf", "SigmaMale"],
+	"BretonRace":["GreekGod", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "Breton Male", "SigmaMale"],
+	"ImperialRace":["Fairly Simple", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "HIMBO Hugh", "HIMBO Sultry", "HimboRegularGuyAlt", "Norse God --M4ruko", "Imperial Male", "Himbo - Leopold"],
+	"KhajiitRace":["HIMBO Pau Weak", "HIMBO Mike", "Khajiit Male", "SigmaMale"],
+	"RedguardRace":["EdgarPreset", "GreekGod", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "Redguard Male", "Himbo Snips1366", "Himbo Warbringer"],
+	"OrcRace":["EdgarPreset", "HIMBO Pau Strong", "HIMBO Pau Fat", "HIMBO Daddy", "HIMBO Jack", "Orcs Male", "Orcs", "Himbo Chief", "Himbo Snips1366", "Himbo Warbringer"],
+	"ElderRace":["HIMBO Daddy", "HimboRegularGuyAlt", "Himbo Chief", "Himbo - Leopold"],
+	"ArgonianRaceVampire":["Argonian Male", "HIMBO Pau Weak", "HIMBO Hideo", "SigmaMale"],
+	"NordRaceVampire":["Edgar", "Fairly Simple", "HIMBO Normal Guy Preset", "HIMBO Pau Strong", "HIMBO Hassan", "HIMBO Hugh", "HIMBO Jack", "HIMBO Sultry", "HimboRegularGuyAlt", "Norse God --M4ruko", "Nord Male", "Himbo Snips1366", "Himbo Warbringer"],
+	"HighElfRaceVampire":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "High Elf Male", "SigmaMale"],
+	"WoodElfRaceVampire":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "Wood Elf", "SigmaMale"],
+	"DarkElfRaceVampire":["HIMBO Pau Weak", "HIMBO Hideo", "HIMBO Mike", "Dark Elf", "SigmaMale"],
+	"BretonRaceVampire":["GreekGod", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "Breton Male", "SigmaMale"],
+	"ImperialRaceVampire":["Fairly Simple", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "HIMBO Hugh", "HIMBO Sultry", "HimboRegularGuyAlt", "Norse God --M4ruko", "Imperial Male", "Himbo - Leopold", "Himbo Warbringer"],
+	"KhajiitRaceVampire":["HIMBO Pau Weak", "HIMBO Mike", "Khajiit Male", "SigmaMale"],
+	"RedguardRaceVampire":["EdgarPreset", "GreekGod", "HIMBO Normal Guy Preset", "HIMBO Pau Birl", "HIMBO Hassan", "Redguard Male", "Himbo Snips1366", "Himbo Warbringer"],
+	"OrcRaceVampire":["EdgarPreset", "HIMBO Pau Strong", "HIMBO Pau Fat", "HIMBO Daddy", "HIMBO Jack", "Orcs Male", "Orcs", "Himbo Chief", "Himbo Snips1366", "Himbo Warbringer"]
+},
+    "npc": {},
+    "blacklistedNpcs": ["Bandit Chief", "Forsworn Forager", "Forsworn Pillager", "Forsworn"],
+    "blacklistedRaces": ["SunElfRacePlayable"],
+    "blacklistedPresetsFromRandomDistribution": [
+        "- Zeroed Sliders -",
+        "-Zeroed Sliders-",
+        "Zeroed Sliders"
+    ],
+    "blacklistedPresetsShowInOBodyMenu": true,
+    "blacklistedOutfitsFromORefit": [],
+    "outfitsForceRefit": []
+}
+
